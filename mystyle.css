@@ -1,0 +1,22 @@
+body{
+    background-color: black;
+    font-family: fantasy;
+}
+h1{
+    color: whitesmoke;
+    font-size: 200;
+}
+h2{
+    color: beige;
+}
+p{
+    color: ghostwhite;
+    margin: auto;
+    
+}
+.stilig{
+    background-color: crimson;
+    color: fuchsia;
+    text-decoration: none;
+    padding: 10px 20px 10px 20px;
+}
